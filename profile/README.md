@@ -1,6 +1,6 @@
 <center>
 
-![](logo-256.png)
+![](/assets/logo-256.png)
 
 # MCLink
 
