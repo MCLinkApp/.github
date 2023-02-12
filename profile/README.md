@@ -1,4 +1,4 @@
-<center>
+<div align="center">
 
 ![](/assets/logo-256.png)
 
